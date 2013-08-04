@@ -1,4 +1,4 @@
-SocialAnimal
+FreedomCrypt
 ============
 
-For very social people 
+Encryption Signing of data with group key management 

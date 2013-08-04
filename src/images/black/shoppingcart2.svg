@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="16px" height="16px" xmlns="http://www.w3.org/2000/svg" version="1.1">
+    <title>155 ShoppingCart2</title>
+    <description>Created with Sketch (http://www.bohemiancoding.com/sketch)</description>
+    <defs>
+        <linearGradient id="gradient-1" x1="50%" y1="0%" x2="50%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb(255,255,255); stop-opacity:100"></stop>
+            <stop offset="100%" style="stop-color:rgb(0,0,0); stop-opacity:100"></stop>
+        </linearGradient>
+        <linearGradient id="gradient-2" x1="50%" y1="0%" x2="50%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb(255,255,255); stop-opacity:100"></stop>
+            <stop offset="100%" style="stop-color:rgb(0,0,0); stop-opacity:100"></stop>
+        </linearGradient>
+        <linearGradient id="gradient-3" x1="50%" y1="0%" x2="50%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb(255,255,255); stop-opacity:100"></stop>
+            <stop offset="100%" style="stop-color:rgb(0,0,0); stop-opacity:100"></stop>
+        </linearGradient>
+        <radialGradient id="gradient-4" cx="50%" cy="0%" fx="50%" fy="0%" r="100%">
+            <stop offset="0%" style="stop-color:rgb(255,255,255); stop-opacity:100"></stop>
+            <stop offset="49%" style="stop-color:rgb(139,139,139); stop-opacity:100"></stop>
+            <stop offset="49%" style="stop-color:rgb(104,104,104); stop-opacity:100"></stop>
+            <stop offset="100%" style="stop-color:rgb(157,157,157); stop-opacity:100"></stop>
+        </radialGradient>
+        <linearGradient id="gradient-5" x1="50%" y1="0%" x2="50%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb(255,255,255); stop-opacity:100"></stop>
+            <stop offset="100%" style="stop-color:rgb(0,0,0); stop-opacity:100"></stop>
+        </linearGradient>
+        <linearGradient id="gradient-6" x1="50%" y1="0%" x2="50%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb(255,255,255); stop-opacity:100"></stop>
+            <stop offset="100%" style="stop-color:rgb(0,0,0); stop-opacity:100"></stop>
+        </linearGradient>
+        <linearGradient id="gradient-7" x1="50%" y1="0%" x2="50%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb(255,255,255); stop-opacity:100"></stop>
+            <stop offset="100%" style="stop-color:rgb(0,0,0); stop-opacity:100"></stop>
+        </linearGradient>
+        <linearGradient id="gradient-8" x1="50%" y1="0%" x2="50%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb(255,255,255); stop-opacity:100"></stop>
+            <stop offset="100%" style="stop-color:rgb(0,0,0); stop-opacity:100"></stop>
+        </linearGradient>
+        <linearGradient id="gradient-9" x1="50%" y1="0%" x2="50%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb(255,255,255); stop-opacity:100"></stop>
+            <stop offset="100%" style="stop-color:rgb(0,0,0); stop-opacity:100"></stop>
+        </linearGradient>
+        <linearGradient id="gradient-10" x1="50%" y1="0%" x2="50%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb(255,255,255); stop-opacity:100"></stop>
+            <stop offset="100%" style="stop-color:rgb(0,0,0); stop-opacity:100"></stop>
+        </linearGradient>
+        <linearGradient id="gradient-11" x1="50%" y1="0%" x2="50%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb(255,255,255); stop-opacity:100"></stop>
+            <stop offset="100%" style="stop-color:rgb(0,0,0); stop-opacity:100"></stop>
+        </linearGradient>
+        <linearGradient id="gradient-12" x1="50%" y1="0%" x2="50%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb(255,255,255); stop-opacity:100"></stop>
+            <stop offset="100%" style="stop-color:rgb(0,0,0); stop-opacity:100"></stop>
+        </linearGradient>
+        <linearGradient id="gradient-13" x1="50%" y1="0%" x2="50%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb(255,255,255); stop-opacity:100"></stop>
+            <stop offset="100%" style="stop-color:rgb(0,0,0); stop-opacity:100"></stop>
+        </linearGradient>
+        <linearGradient id="gradient-14" x1="50%" y1="0%" x2="50%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb(255,255,255); stop-opacity:100"></stop>
+            <stop offset="100%" style="stop-color:rgb(0,0,0); stop-opacity:100"></stop>
+        </linearGradient>
+        <linearGradient id="gradient-15" x1="50%" y1="0%" x2="50%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb(255,255,255); stop-opacity:100"></stop>
+            <stop offset="100%" style="stop-color:rgb(0,0,0); stop-opacity:100"></stop>
+        </linearGradient>
+        <linearGradient id="gradient-16" x1="50%" y1="0%" x2="50%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb(255,255,255); stop-opacity:100"></stop>
+            <stop offset="100%" style="stop-color:rgb(0,0,0); stop-opacity:100"></stop>
+        </linearGradient>
+        <linearGradient id="gradient-17" x1="50%" y1="0%" x2="50%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb(255,255,255); stop-opacity:100"></stop>
+            <stop offset="100%" style="stop-color:rgb(0,0,0); stop-opacity:100"></stop>
+        </linearGradient>
+        <linearGradient id="gradient-18" x1="50%" y1="0%" x2="50%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb(255,255,255); stop-opacity:100"></stop>
+            <stop offset="100%" style="stop-color:rgb(0,0,0); stop-opacity:100"></stop>
+        </linearGradient>
+        <linearGradient id="gradient-19" x1="50%" y1="0%" x2="50%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb(255,255,255); stop-opacity:100"></stop>
+            <stop offset="100%" style="stop-color:rgb(0,0,0); stop-opacity:100"></stop>
+        </linearGradient>
+        <linearGradient id="gradient-20" x1="50%" y1="0%" x2="50%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb(255,255,255); stop-opacity:100"></stop>
+            <stop offset="100%" style="stop-color:rgb(0,0,0); stop-opacity:100"></stop>
+        </linearGradient>
+        <linearGradient id="gradient-21" x1="50%" y1="0%" x2="50%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb(255,255,255); stop-opacity:100"></stop>
+            <stop offset="100%" style="stop-color:rgb(0,0,0); stop-opacity:100"></stop>
+        </linearGradient>
+        <linearGradient id="gradient-22" x1="50%" y1="0%" x2="50%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb(255,255,255); stop-opacity:100"></stop>
+            <stop offset="100%" style="stop-color:rgb(0,0,0); stop-opacity:100"></stop>
+        </linearGradient>
+        <linearGradient id="gradient-23" x1="50%" y1="0%" x2="50%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb(255,255,255); stop-opacity:100"></stop>
+            <stop offset="100%" style="stop-color:rgb(0,0,0); stop-opacity:100"></stop>
+        </linearGradient>
+        <linearGradient id="gradient-24" x1="50%" y1="0%" x2="50%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb(255,255,255); stop-opacity:100"></stop>
+            <stop offset="100%" style="stop-color:rgb(0,0,0); stop-opacity:100"></stop>
+        </linearGradient>
+        <linearGradient id="gradient-25" x1="50%" y1="0%" x2="50%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb(255,255,255); stop-opacity:100"></stop>
+            <stop offset="100%" style="stop-color:rgb(0,0,0); stop-opacity:100"></stop>
+        </linearGradient>
+        <linearGradient id="gradient-26" x1="50%" y1="0%" x2="50%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb(255,255,255); stop-opacity:100"></stop>
+            <stop offset="100%" style="stop-color:rgb(0,0,0); stop-opacity:100"></stop>
+        </linearGradient>
+        <linearGradient id="gradient-27" x1="50%" y1="0%" x2="50%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb(255,255,255); stop-opacity:100"></stop>
+            <stop offset="100%" style="stop-color:rgb(0,0,0); stop-opacity:100"></stop>
+        </linearGradient>
+        <linearGradient id="gradient-28" x1="50%" y1="0%" x2="50%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb(255,255,255); stop-opacity:100"></stop>
+            <stop offset="100%" style="stop-color:rgb(0,0,0); stop-opacity:100"></stop>
+        </linearGradient>
+        <linearGradient id="gradient-29" x1="50%" y1="0%" x2="50%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb(255,255,255); stop-opacity:100"></stop>
+            <stop offset="100%" style="stop-color:rgb(0,0,0); stop-opacity:100"></stop>
+        </linearGradient>
+        <linearGradient id="gradient-30" x1="50%" y1="0%" x2="50%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb(255,255,255); stop-opacity:100"></stop>
+            <stop offset="100%" style="stop-color:rgb(0,0,0); stop-opacity:100"></stop>
+        </linearGradient>
+        <linearGradient id="gradient-31" x1="50%" y1="0%" x2="50%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb(255,255,255); stop-opacity:100"></stop>
+            <stop offset="100%" style="stop-color:rgb(0,0,0); stop-opacity:100"></stop>
+        </linearGradient>
+        <linearGradient id="gradient-32" x1="50%" y1="0%" x2="50%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb(255,255,255); stop-opacity:100"></stop>
+            <stop offset="100%" style="stop-color:rgb(0,0,0); stop-opacity:100"></stop>
+        </linearGradient>
+        <linearGradient id="gradient-33" x1="50%" y1="0%" x2="50%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb(255,255,255); stop-opacity:100"></stop>
+            <stop offset="100%" style="stop-color:rgb(0,0,0); stop-opacity:100"></stop>
+        </linearGradient>
+        <linearGradient id="gradient-34" x1="50%" y1="0%" x2="50%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb(255,255,255); stop-opacity:100"></stop>
+            <stop offset="100%" style="stop-color:rgb(0,0,0); stop-opacity:100"></stop>
+        </linearGradient>
+    </defs>
+    <g fill="rgb(215,215,215)" id="Icons with numbers">
+        <g fill="rgb(215,215,215)" id="Stripes Vertical copy">
+            <g stroke="rgb(255,255,255)" stroke-width="1" fill="none" id="Rectangle 180 copy 5"></g>
+            <path id="Rectangle 180 copy 5" d="M0,-448 L0,272 L16,272 L16,-448 L0,-448 Z M0,-448" stroke="rgb(255,255,255)" stroke-width="1" fill="none"></path>
+            <path id="Rectangle 180 copy 5 decoration" d="" stroke="rgb(255,255,255)" stroke-width="1" fill="none"></path>
+        </g>
+        <g fill="rgb(0,0,0)" id="Rectangle 194 copy"></g>
+        <path id="Rectangle 194 copy" d="M0,4 L12,4 L13,4 L13,2 L16,2 L16,2 L14,3 L14,4 L14,4 L13,4 L13,11 L2,11 Z M5,14 C4,14 4,13 4,13 C4,12 4,12 5,12 C5,12 6,12 6,13 C6,13 5,14 5,14 Z M10,14 C9,14 9,13 9,13 C9,12 9,12 10,12 C10,12 11,12 11,13 C11,13 10,14 10,14 Z M3,6 L3,7 L2,7 L2,8 L3,8 L3,9 L4,9 L4,8 L5,8 L5,9 L6,9 L6,8 L7,8 L7,7 L8,7 L8,8 L9,8 L9,7 L10,7 L10,8 L11,8 L11,7 L12,7 L12,8 L13,8 L13,7 L12,7 L12,6 L13,6 L13,5 L12,5 L12,6 L11,6 L11,5 L10,5 L10,6 L9,6 L9,5 L8,5 L8,6 L7,6 L7,5 L6,5 L6,6 L5,6 L5,5 L4,5 L4,6 L3,6 L3,5 L2,5 L2,6 Z M5,8 L5,7 L6,7 L6,8 Z M3,8 L3,7 L4,7 L4,8 Z M10,7 L10,6 L11,6 L11,7 Z M8,7 L8,6 L9,6 L9,7 Z M6,7 L6,6 L7,6 L7,7 Z M4,7 L4,6 L5,6 L5,7 Z M7,8 L7,9 L8,9 L8,8 L7,8 Z M9,8 L9,9 L10,9 L10,8 L9,8 Z M11,8 L11,9 L12,9 L12,8 L11,8 Z M4,9 L4,10 L5,10 L5,9 L4,9 Z M6,9 L6,10 L7,10 L7,9 L6,9 Z M8,9 L8,10 L9,10 L9,9 L8,9 Z M10,9 L10,10 L11,10 L11,9 L10,9 Z M10,9" fill="rgb(0,0,0)"></path>
+        <path id="Rectangle 194 copy decoration" d="" fill="rgb(0,0,0)"></path>
+    </g>
+</svg>

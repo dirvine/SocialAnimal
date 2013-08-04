@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="16px" height="16px" xmlns="http://www.w3.org/2000/svg" version="1.1">
+    <title>009 MailOpen</title>
+    <description>Created with Sketch (http://www.bohemiancoding.com/sketch)</description>
+    <defs>
+        <linearGradient id="gradient-1" x1="50%" y1="0%" x2="50%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb(255,255,255); stop-opacity:100"></stop>
+            <stop offset="100%" style="stop-color:rgb(0,0,0); stop-opacity:100"></stop>
+        </linearGradient>
+        <linearGradient id="gradient-2" x1="50%" y1="0%" x2="50%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb(255,255,255); stop-opacity:100"></stop>
+            <stop offset="100%" style="stop-color:rgb(0,0,0); stop-opacity:100"></stop>
+        </linearGradient>
+        <linearGradient id="gradient-3" x1="50%" y1="0%" x2="50%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb(255,255,255); stop-opacity:100"></stop>
+            <stop offset="100%" style="stop-color:rgb(0,0,0); stop-opacity:100"></stop>
+        </linearGradient>
+        <linearGradient id="gradient-4" x1="50%" y1="0%" x2="50%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb(255,255,255); stop-opacity:100"></stop>
+            <stop offset="100%" style="stop-color:rgb(0,0,0); stop-opacity:100"></stop>
+        </linearGradient>
+        <linearGradient id="gradient-5" x1="50%" y1="0%" x2="50%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb(255,255,255); stop-opacity:100"></stop>
+            <stop offset="100%" style="stop-color:rgb(0,0,0); stop-opacity:100"></stop>
+        </linearGradient>
+        <linearGradient id="gradient-6" x1="50%" y1="0%" x2="50%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb(255,255,255); stop-opacity:100"></stop>
+            <stop offset="100%" style="stop-color:rgb(0,0,0); stop-opacity:100"></stop>
+        </linearGradient>
+        <linearGradient id="gradient-7" x1="50%" y1="0%" x2="50%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb(255,255,255); stop-opacity:100"></stop>
+            <stop offset="100%" style="stop-color:rgb(0,0,0); stop-opacity:100"></stop>
+        </linearGradient>
+        <linearGradient id="gradient-8" x1="50%" y1="0%" x2="50%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb(255,255,255); stop-opacity:100"></stop>
+            <stop offset="100%" style="stop-color:rgb(0,0,0); stop-opacity:100"></stop>
+        </linearGradient>
+        <linearGradient id="gradient-9" x1="50%" y1="0%" x2="50%" y2="100%">
+            <stop offset="0%" style="stop-color:rgb(255,255,255); stop-opacity:100"></stop>
+            <stop offset="100%" style="stop-color:rgb(0,0,0); stop-opacity:100"></stop>
+        </linearGradient>
+    </defs>
+    <g fill="rgb(215,215,215)" id="Icons with numbers">
+        <g fill="rgb(215,215,215)" id="Group">
+            <g fill="rgb(0,0,0)" id="Shape copy"></g>
+            <path id="Shape copy" d="M9,11 L14,15 C14,15 14,15 14,16 L2,16 C1,16 1,15 1,15 L6,11 L8,13 Z M8,12 L1,6 L8,0 L15,6 Z M15,15 L10,11 L15,6 L15,15 L15,15 Z M1,15 L1,6 L5,11 L1,15 L1,15 Z M1,15" fill="rgb(0,0,0)"></path>
+            <path id="Shape copy decoration" d="" fill="rgb(0,0,0)"></path>
+        </g>
+    </g>
+</svg>
